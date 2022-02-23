@@ -14,9 +14,9 @@ namespace LogicalPrograms
 
             //PrimeNumber.CheckPrimeNumber();
 
-            ReverseNumber.ReverseTheNumber();
+            //ReverseNumber.ReverseTheNumber();
 
-            //CouponNumbers.GenerateCouponNumber();  
+            CouponNumbers.GenerateCouponNumber();  
 
         }
     }
