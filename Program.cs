@@ -10,9 +10,9 @@ namespace LogicalPrograms
 
             //Fibonacci.DisplayFibonacci();
 
-            PerfectNumber.FindPerfectNumber();
+            //PerfectNumber.FindPerfectNumber();
 
-            //PrimeNumber.CheckPrimeNumber();
+            PrimeNumber.CheckPrimeNumber();
 
             //ReverseNumber.ReverseTheNumber();
 
