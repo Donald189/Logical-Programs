@@ -12,9 +12,9 @@ namespace LogicalPrograms
 
             //PerfectNumber.FindPerfectNumber();
 
-            PrimeNumber.CheckPrimeNumber();
+            //PrimeNumber.CheckPrimeNumber();
 
-            //ReverseNumber.ReverseTheNumber();
+            ReverseNumber.ReverseTheNumber();
 
             //CouponNumbers.GenerateCouponNumber();  
 
