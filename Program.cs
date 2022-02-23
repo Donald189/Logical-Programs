@@ -8,7 +8,7 @@ namespace LogicalPrograms
         {
             Console.WriteLine("Logical Programs\n");
 
-            //Fibonacci.DisplayFibonacci();
+            Fibonacci.DisplayFibonacci();
 
             //PerfectNumber.FindPerfectNumber();
 
